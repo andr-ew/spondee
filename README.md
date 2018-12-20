@@ -1,3 +1,7 @@
+# spondee
+
+![ss](ss.png)
+
 # quickstart (ableton live)
 
 (with ableton open & max/max trial installed)
