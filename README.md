@@ -2,6 +2,9 @@
 
 ![ss](ss.png)
 
+divides the mac trackpad into four vertical faders outputting MIDI cc. while enabled, the trackpad cannot be used as a mouse, includes a toggle mapped to the '~' key.
+
+
 # quickstart (ableton live)
 
 (with ableton open & max/max trial installed)
